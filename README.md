@@ -36,12 +36,12 @@ TumorNet integrates complementary components within a unified architecture:
 ## Citation
 
 ```bibtex
-@article{zaqeem2026tumornet,
-  title   = {TumorNet: A Hybrid Lightweight Framework for Brain Tumor Classification and Reasoning},
-  author  = {Zaqeem, Muhammad and Wang, Hanxiang and Fayaz, Muhammad and Qiu, Defu and Ahadzadeh, Sajjad and Nguyen, Tan N. and Dang, L. Minh},
-  journal = {Information Sciences},
-  volume  = {746},
-  pages   = {123423},
-  year    = {2026},
-  doi     = {10.1016/j.ins.2026.123423}
+@article{Wang2026TumorNetAH,
+  title={TumorNet: A hybrid lightweight framework for brain tumor classification and reasoning},
+  author={Han-Xiang Wang and Muhammad Zaqeem and Muhammad Fayaz and De-Fu Qiu and Sajjad Ahadzadeh and Tan N. Nguyen and Lien Minh Dang},
+  journal={Inf. Sci.},
+  year={2026},
+  volume={746},
+  pages={123423},
+  url={https://api.semanticscholar.org/CorpusID:286911924}
 }
