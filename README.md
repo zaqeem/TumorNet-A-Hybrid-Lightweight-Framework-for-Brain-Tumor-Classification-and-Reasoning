@@ -30,15 +30,6 @@ TumorNet integrates complementary components within a unified architecture:
 
 ---
 
-## Paper
-
-**TumorNet: A Hybrid Lightweight Framework for Brain Tumor Classification and Reasoning**
-
-*Information Sciences*, Volume 746, Article 123423, 2026.
-
-**DOI:** [10.1016/j.ins.2026.123423](https://doi.org/10.1016/j.ins.2026.123423)
-
-**Paper:** https://www.sciencedirect.com/science/article/pii/S0020025526003543
 
 ---
 
