@@ -1,13 +1,11 @@
-from pathlib import Path
-
-readme = """# TumorNet: A Hybrid Lightweight Framework for Brain Tumor Classification and Reasoning
+# TumorNet: A Hybrid Lightweight Framework for Brain Tumor Classification and Reasoning
 
 **Muhammad Zaqeem · Hanxiang Wang · Muhammad Fayaz · Defu Qiu · Sajjad Ahadzadeh · Tan N. Nguyen · L. Minh Dang**
 
 [![Paper](https://img.shields.io/badge/Paper-Information%20Sciences-blue)](https://doi.org/10.1016/j.ins.2026.123423)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ins.2026.123423-green)](https://doi.org/10.1016/j.ins.2026.123423)
 
-
+---
 
 ## Overview
 
@@ -17,7 +15,7 @@ TumorNet is a lightweight hybrid framework for brain tumor diagnosis from magnet
   <img src="assets/framework.png" width="90%" alt="TumorNet Framework">
 </p>
 
-
+---
 
 ## Framework
 
@@ -30,7 +28,7 @@ TumorNet integrates complementary components within a unified architecture:
 - **Feature Fusion** for combining discriminative representations
 - **Reasoning Module** for generating an interpretable diagnostic description
 
-
+---
 
 ## Paper
 
@@ -42,13 +40,14 @@ TumorNet integrates complementary components within a unified architecture:
 
 **Paper:** https://www.sciencedirect.com/science/article/pii/S0020025526003543
 
-
+---
 
 ## Citation
 
-bibtex
+```bibtex
 @article{zaqeem2026tumornet,
   title   = {TumorNet: A Hybrid Lightweight Framework for Brain Tumor Classification and Reasoning},
+  author  = {Zaqeem, Muhammad and Wang, Hanxiang and Fayaz, Muhammad and Qiu, Defu and Ahadzadeh, Sajjad and Nguyen, Tan N. and Dang, L. Minh},
   journal = {Information Sciences},
   volume  = {746},
   pages   = {123423},
