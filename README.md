@@ -12,7 +12,7 @@
 TumorNet is a lightweight hybrid framework for brain tumor diagnosis from magnetic resonance imaging (MRI). It combines efficient convolutional feature extraction with MobileViT-based visual representation learning and attention-driven feature refinement. A reasoning component further provides an interpretable description of the model's diagnostic decision.
 
 <p align="center">
-  <img src="assets/framework.png" width="90%" alt="TumorNet Framework">
+  <img src="framework.png" width="90%" alt="TumorNet Framework">
 </p>
 
 ---
